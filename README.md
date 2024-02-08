@@ -1,8 +1,6 @@
 # mobilproje
 
-Mobil Programlama Final Projesi
-
-Zeynep Nur Sena Duran -> 21060650
+Mobil Programlama Bütünleme Projesi
 
 Cansu Kandeğer -> 21060680
 
